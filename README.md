@@ -74,7 +74,6 @@ To run on the demo data, take the following steps:
 3. **Check the Results**
    - The results are saved in the *"demo_result"* folder.
    - The expected results are in the *"demo_expected_result"* folder for comparison.
-   - Note that this demo dataset is only used to demonstrate the use of the software, and the sequencing results may not be correct. To test on larger dataset, please visit [DiNovo website](http://fugroup.amss.ac.cn/software/DiNovo/DiNovoIndex.html).
    - For more detailed instructions, eg. the meaning of the parameters and output results, please refer to the *"DiNovo User Guide"*.
 
 # Citation
